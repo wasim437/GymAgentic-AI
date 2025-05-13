@@ -1,0 +1,70 @@
+📦 Sample Output Format
+✅ Workout Plan Example (Auto-generated)
+
+**Day 1: Beginner Bodyweight Routine**
+
+* Warm-up (5 mins)
+    - Brisk walking or jogging
+    - Arm circles, torso twists
+
+* Main Workout (20–30 mins)
+    - ✅ Squats — 3 sets of 12 reps
+    - ✅ Lunges — 3 sets of 10 reps/leg
+    - ✅ Push-ups — 2 sets of 10 reps
+    - ✅ Plank — 30 seconds
+    - ✅ Wall sit — 45 seconds
+
+* Cool-down
+    - Stretching and breathing
+
+✅ Diet Plan Example
+
+**Muscle Gain Diet Plan**
+
+* Meal 1 (Breakfast):
+    - Oats + banana + whey protein
+* Meal 2 (Snack):
+    - Boiled eggs + almonds
+* Meal 3 (Lunch):
+    - Grilled chicken + brown rice + veggies
+* Meal 4 (Pre-workout):
+    - Apple + peanut butter
+* Meal 5 (Post-workout):
+    - Protein shake + banana
+* Meal 6 (Dinner):
+    - Cottage cheese + quinoa + salad
+
+💡 Macronutrient Goal:
+    - Protein: 130g
+    - Carbs: 250g
+    - Fats: 70g
+
+
+✅ Motivation Example
+
+
+🌟 "Push yourself, because no one else is going to do it for you."
+
+🔥 "Small progress is still progress. Show up today."
+
+💬 "Your body can stand almost anything. It’s your mind you have to convince."
+
+
+🧪 Task Execution (Console View Example)
+
+
+🚀 Crew: crew
+└── 📋 Task: Workout Plan
+       Assigned to: 🧠 Workout Planner
+       Status: ✅ Completed
+
+🚀 Crew: crew
+└── 📋 Task: Diet Plan
+       Assigned to: 🧠 Diet Advisor
+       Status: ✅ Completed
+
+🚀 Crew: crew
+└── 📋 Task: Motivation
+       Assigned to: 🧠 Motivation Bot
+       Status: ✅ Completed
+

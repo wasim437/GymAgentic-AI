@@ -1,0 +1,21 @@
+📈 Use Cases
+Personal fitness coach without subscription
+
+Diet planner for gym goers
+
+Daily motivation for mental fitness
+
+Agentic AI demonstration project
+
+Edu project to learn CrewAI and LLM usage
+
+🧭 Future Enhancements
+ Add user input form (Streamlit / Gradio)
+
+ Store user progress in local JSON/SQLite
+
+ Add voice support (Text-to-Speech)
+
+ Include sleep & recovery suggestions
+
+ Add support for multiple model backends (e.g., Claude, GPT-4)

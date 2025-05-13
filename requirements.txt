@@ -1,0 +1,6 @@
+crewai==0.119.0
+langchain==0.3.25
+langchain-ollama==0.1.4
+duckduckgo-search==8.0.1
+openai==1.77.0
+ollama  # Make sure Ollama is installed locally: https://ollama.com
